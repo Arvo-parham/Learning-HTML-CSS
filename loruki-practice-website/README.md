@@ -36,14 +36,6 @@ During this project I practiced:
 - Using utility classes for reusable styling
 - Positioning elements with relative and absolute positioning
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/p4rhm-mh/loruki-practice-website.git
-
-Open "index.html" in your browser.
-
 Credits
 
 Project inspired by the Loruki tutorial from Traversy Media.
